@@ -10,7 +10,7 @@ namespace ConsoleAppzhou
     {
         static void Main(string[] args)
         {
-            int a = 1;
+            int a = 3;
         }
     }
 }
